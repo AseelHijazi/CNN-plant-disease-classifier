@@ -1,0 +1,5 @@
+Python 3.12.9
+torch             2.6.0
+torchaudio        2.6.0
+torchvision       0.21.0
+scikit-learn      1.6.1
