@@ -1,0 +1,1 @@
+This project uses a deep learning model built with PyTorch to identify plant diseases from images. It is trained on the [PlantVillage Dataset]([https://plantvillage.psu.edu/](https://www.kaggle.com/datasets/emmarex/plantdisease?resource=download)) and can classify images of plants into healthy or diseased categories.
